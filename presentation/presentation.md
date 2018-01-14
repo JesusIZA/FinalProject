@@ -48,7 +48,7 @@ highlight: zenburn
 
 # Архитектура БД
 
-![[DB][db]](db)
+![[DB][db]][db]
 
 [db]:img/db.svg
 
