@@ -8,6 +8,8 @@
 Company can have several ships.
 Ship have a passenger capacity, a cruise route, a number of ports to visit, a cruise duration and staff. The client chooses cruise and pays for it. Also chooses excursions upon arrival at the port for additional payment. The cruise ship administrator is responsible for passengers bonuses, including ticket class (pool, gym, cinema room, beauty salons, etc.)
 
+## [Presentation](presentation)
+
 ## Requirements and installation
 
 - Linux Ubuntu (Server) LTS 16.04
@@ -89,6 +91,3 @@ _webapp_ service will be accessible at `http://localhost/`
 ```bash
 docker-compose down
 ```
-
-## Presentation
-_TODO_
